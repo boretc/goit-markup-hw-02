@@ -62,6 +62,10 @@ body {
     color: var(--accent-color);
 }
 
+.current-page {
+    color: var(--accent-color);
+}
+
 .header-mail, .header-tel {
     font-weight: 500;
     font-size: 14px;
